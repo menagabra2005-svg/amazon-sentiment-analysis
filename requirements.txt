@@ -1,10 +1,4 @@
-# ── Web App ────────────────────────────────────────────────────────────────────
-streamlit==1.45.0
-
-# ── Data & ML ──────────────────────────────────────────────────────────────────
-pandas==2.2.3
-numpy==2.2.5
-scikit-learn==1.6.1
-
-# ── Serialisation ──────────────────────────────────────────────────────────────
-# pickle is part of the Python standard library — no install needed
+streamlit
+scikit-learn
+numpy
+pandas
